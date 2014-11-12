@@ -9,6 +9,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: kimdongup
 github_username:  kimdongup
-
 # Build settings
 markdown: kramdown
+# Github base
+highlighter: pygments
+github: https://github.com/kimdongup/kdublog
+encoding: UTF-8
+paginate: 10
